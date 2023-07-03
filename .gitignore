@@ -1,0 +1,4 @@
+config.txt
+data.txt
+*.exe 
+# semua format file .exe
